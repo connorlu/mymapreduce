@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/impl
+END
+HashDataCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/43/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/impl/HashDataCollection.java
+END
+HashPartition.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/45/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/impl/HashPartition.java
+END
+SortedDataReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/43/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/impl/SortedDataReader.java
+END
+SimpleMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/39/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/impl/SimpleMapper.java
+END
+StringReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/44/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/impl/StringReducer.java
+END
+HashDataReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/43/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/impl/HashDataReader.java
+END
+JobBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/43/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/impl/JobBuilder.java
+END
+SimpleReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/43/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/impl/SimpleReducer.java
+END
+SortedDataCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/44/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/impl/SortedDataCollection.java
+END

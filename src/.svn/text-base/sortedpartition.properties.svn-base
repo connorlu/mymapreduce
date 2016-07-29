@@ -1,0 +1,2 @@
+#size of each key set,while invoke Partition.nextKeySet
+keySetSize=25

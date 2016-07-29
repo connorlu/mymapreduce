@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/45/branches/mymapreduce0.3/src/org/itew/mymapreduce/io
+END
+Splittable.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/39/branches/mymapreduce0.3/src/org/itew/mymapreduce/io/Splittable.java
+END
+InputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/42/branches/mymapreduce0.3/src/org/itew/mymapreduce/io/InputFormat.java
+END
+Writable.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/43/branches/mymapreduce0.3/src/org/itew/mymapreduce/io/Writable.java
+END
+OutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/42/branches/mymapreduce0.3/src/org/itew/mymapreduce/io/OutputFormat.java
+END
+Readable.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/43/branches/mymapreduce0.3/src/org/itew/mymapreduce/io/Readable.java
+END

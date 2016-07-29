@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/45/branches/mymapreduce0.3/src/org/itew/mymapreduce/test/randomfile/sort
+END
+SortJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/45/branches/mymapreduce0.3/src/org/itew/mymapreduce/test/randomfile/sort/SortJob.java
+END
+SortJobAdversary.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/45/branches/mymapreduce0.3/src/org/itew/mymapreduce/test/randomfile/sort/SortJobAdversary.java
+END
+SortJobWithMultidisk.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/45/branches/mymapreduce0.3/src/org/itew/mymapreduce/test/randomfile/sort/SortJobWithMultidisk.java
+END
+Data.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/45/branches/mymapreduce0.3/src/org/itew/mymapreduce/test/randomfile/sort/Data.java
+END

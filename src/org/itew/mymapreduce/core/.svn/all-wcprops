@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/branches/mymapreduce0.3/src/org/itew/mymapreduce/core
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/42/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/Configuration.java
+END
+BasicDataCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/43/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/BasicDataCollection.java
+END
+Partition.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/43/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/Partition.java
+END
+Reducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/43/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/Reducer.java
+END
+Job.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/39/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/Job.java
+END
+Combiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/39/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/Combiner.java
+END
+BasicDataReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/43/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/BasicDataReader.java
+END
+BasicMapperRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/43/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/BasicMapperRunner.java
+END
+FrameworkDataCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/43/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/FrameworkDataCollection.java
+END
+Mapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/39/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/Mapper.java
+END
+BasicReducerRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/43/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/BasicReducerRunner.java
+END
+DataCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/43/branches/mymapreduce0.3/src/org/itew/mymapreduce/core/DataCollection.java
+END

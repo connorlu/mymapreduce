@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/branches/mymapreduce0.3/src/org/itew/mymapreduce/io/file
+END
+MultiDiskConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/42/branches/mymapreduce0.3/src/org/itew/mymapreduce/io/file/MultiDiskConfiguration.java
+END
+MultiDiskLineFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/45/branches/mymapreduce0.3/src/org/itew/mymapreduce/io/file/MultiDiskLineFile.java
+END
+MultiDiskFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/43/branches/mymapreduce0.3/src/org/itew/mymapreduce/io/file/MultiDiskFile.java
+END

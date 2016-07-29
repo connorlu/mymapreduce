@@ -1,0 +1,13 @@
+#each block KB size of a file
+blockSize=4096
+
+#path of multidisk for each disk
+fileFolder=f:/mymapreduce;g:/mymapreduce
+
+#if you use this prefix,you must ensure your file name and folder name do not start with filePrefix.
+#further more,filePrefix do not start with folderPrefix and  folderPrefix do not start with filePrefix.
+filePrefix=file-
+
+#if you use this prefix,you must ensure your file name and folder name do not start with folderPrefix
+#further more,filePrefix do not start with folderPrefix and  folderPrefix do not start with filePrefix.
+folderPrefix=folder-

@@ -1,0 +1,15 @@
+#if automatic allocation mapper count and reducer count
+#maxMapperCount and maxReducerCount will be omitted
+automaticAllocateMapperCountAndReducerCount=false
+
+#the max mapper thread count
+maxMapperCount=3
+
+#the max reducer thread count
+maxReducerCount=3
+
+#max seconds time of running map task
+mapTaskMaxRunningTime=3600
+
+#max seconds time of running reduce task
+reduceTaskMaxRunningTime=3600

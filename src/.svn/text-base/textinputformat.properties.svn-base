@@ -1,0 +1,4 @@
+#buffer size of read file 
+bufferSize=409600
+
+maxSplitoCount=10

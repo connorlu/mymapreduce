@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/43/branches/mymapreduce0.3/src/org/itew/mymapreduce/test/multidiskfile
+END
+MultiDiskFileFun.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/43/branches/mymapreduce0.3/src/org/itew/mymapreduce/test/multidiskfile/MultiDiskFileFun.java
+END
+MultiDiskFileCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/43/branches/mymapreduce0.3/src/org/itew/mymapreduce/test/multidiskfile/MultiDiskFileCopy.java
+END
+MultiDiskFileCopyAdversary.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/43/branches/mymapreduce0.3/src/org/itew/mymapreduce/test/multidiskfile/MultiDiskFileCopyAdversary.java
+END
